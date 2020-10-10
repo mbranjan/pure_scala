@@ -20,4 +20,5 @@ Measurable criteria will be on your coding skill standards and approach.
  - Source files are created as per assumptions and present under "src/test/resources/"
  - An input is taken from configuration file which is present under "src/main/resources/".
  - Sample test cases are written and tested.
- - Result screenshot is uploaded.
+ - Application can be run from "baselineDataAnalysis.scala"
+ - **Result screenshot is uploaded here as well.**
