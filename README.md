@@ -21,4 +21,4 @@ Measurable criteria will be on your coding skill standards and approach.
  - An input is taken from configuration file which is present under "src/main/resources/".
  - Sample test cases are written and tested.
  - Application can be run from "baselineDataAnalysis.scala"
- - **Result screenshot is uploaded here as well.**
+ - **Result screenshot "pure_scala_result.jpg" is uploaded here as well.**
